@@ -1,0 +1,29 @@
+/*--------------
+  COLOR PALETTE
+ ----------------
+Teal green            #274C5B
+Dark sea green        #7EB693
+Arylide yellow        #EFD372
+Light gray            #D4D4D4
+White smoke           #F9F8F8
+Anti-flash white      #EFF6F1
+Davy's grey           #525C60
+*/
+
+/* ------------------
+    FONTS 
+   ------------------
+Headings     Roboto
+Paragraphs   Yellowtail
+Paragraphs   Open Sans
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ 
+
